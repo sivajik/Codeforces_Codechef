@@ -1,4 +1,4 @@
-package zero.to.one.hundred;
+package cf.zero.to.one.hundred;
 
 import java.io.IOException;
 import java.util.Scanner;

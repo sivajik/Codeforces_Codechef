@@ -1,4 +1,4 @@
-package three.to.four.hundred;
+package cf.three.to.four.hundred;
 import java.io.IOException;
 import java.util.Scanner;
 
